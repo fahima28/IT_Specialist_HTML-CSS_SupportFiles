@@ -6,12 +6,10 @@
 p {
     color: navy;
 }
-
 .sale {
     font-weight:bold;
     background-color:aqua;
 }
-
-#sidenote{
-  background-color: #bdb9d9;
+#sidenote {
+    background-color: #dbd9d9;
 }
