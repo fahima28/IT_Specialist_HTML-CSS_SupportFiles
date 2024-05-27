@@ -8,6 +8,11 @@ body{
   height: 100%;
 }
 
+.banner {
+  border: 5px solid #ABC4AA;
+  color: red;
+}
+
 ul{
   list-style-type:none;
   margin:0;
