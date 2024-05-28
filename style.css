@@ -11,6 +11,7 @@ body{
 .banner {
   border: 5px solid #ABC4AA;
   color: red;
+  background-color: black;
 }
 
 ul{
@@ -61,4 +62,8 @@ li.dropDown{
 
 .dropDown:hover .dropDown-content{
   display:block;
+}
+
+.h1 {
+  color: white;
 }
