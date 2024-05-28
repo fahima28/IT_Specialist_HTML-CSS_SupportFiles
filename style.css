@@ -63,3 +63,23 @@ li.dropDown{
 .dropDown:hover .dropDown-content{
   display:block;
 }
+
+.left {
+  float: left;
+  width: 30%;
+}
+
+.right {
+  float: right;
+  width: 70%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  border: 5px solid #ABC4AA;
+  height: 100%;
+  margin-top: 10px;
+}
