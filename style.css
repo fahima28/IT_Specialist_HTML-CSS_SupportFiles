@@ -67,11 +67,13 @@ li.dropDown{
 .left {
   float: left;
   width: 30%;
+  border: 3px #777; 
 }
 
 .right {
   float: right;
   width: 70%;
+  background-color: black;
 }
 
 a {
@@ -82,4 +84,6 @@ a {
   border: 5px solid #ABC4AA;
   height: 100%;
   margin-top: 10px;
+  border: 3px #777;
+  background-color: black;
 }
