@@ -63,7 +63,3 @@ li.dropDown{
 .dropDown:hover .dropDown-content{
   display:block;
 }
-
-.h1 {
-  color: white;
-}
